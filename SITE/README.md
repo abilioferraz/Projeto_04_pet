@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🚀 Nexo
+# 🚀 PetStay
 
-### Landing Page Profissional • Serviço Digital • Presença Online
+### Landing Page de Hotel Pet • Hospedagem Carinhosa • Experiência Confiável
 
-Landing page moderna e responsiva desenvolvida para ampliação de rede do cliente, com foco em **posicionamento profissional**, **experiência do usuário** e **clareza de comunicação**.
+Landing page encantadora e responsiva criada para apresentar o hotel PetStay como uma referência em hospedagem, bem-estar e cuidado premium para animais de estimação.
 
 <br/>
 
@@ -19,49 +19,49 @@ Landing page moderna e responsiva desenvolvida para ampliação de rede do clien
 
 ## 🧠 Sobre o Projeto
 
-A **Nexo** é uma landing page institucional desenvolvida como **serviço profissional**, entregue a um cliente real com o objetivo de fortalecer sua **presença digital**, apresentar serviços de forma clara e gerar credibilidade.
+A **PetStay** é uma landing page institucional desenvolvida para um hotel pet que valoriza conforto, segurança e experiências personalizadas para cães e gatos.
 
-O projeto foi pensado desde o início como um **produto de mercado**, priorizando **performance**, **usabilidade** e **manutenção**, seguindo padrões profissionais de desenvolvimento Front-End.
-
----
-
-## 🎯 Objetivo de Negócio
-
-- Comunicar serviços com clareza e impacto
-- Posicionar o cliente de forma profissional no digital
-- Criar um ponto central de apresentação e contato
-- Garantir experiência consistente em todos os dispositivos
-- Facilitar futuras evoluções do projeto
+O site foi projetado para transmitir confiança a tutores, destacar os serviços de hospedagem, banho e day care, e oferecer um canal fácil para agendamento e contato direto.
 
 ---
 
-## ✨ Destaques do Projeto
+## 🎯 Objetivo do Projeto
 
-✔️ Design moderno e profissional  
-✔️ Estrutura focada em conversão  
-✔️ Navegação fluida e intuitiva  
-✔️ Código limpo e organizado  
-✔️ Layout totalmente responsivo  
-✔️ Pronto para expansão e manutenção
+- Apresentar o PetStay como um hotel pet acolhedor e profissional
+- Destacar serviços de hospedagem, cuidados diários e bem-estar animal
+- Promover uma experiência de navegação clara, aconchegante e acessível
+- Consolidar a marca online como referência local para quem busca carinho e segurança
+- Garantir visual responsivo e alta usabilidade em todos os dispositivos
+
+---
+
+## ✨ Destaques do PetStay
+
+✔️ Identidade visual acolhedora e moderna  
+✔️ Estrutura focada em confiança e clareza  
+✔️ Navegação intuitiva para tutores e clientes  
+✔️ Código limpo, organizado e fácil de manter  
+✔️ Layout totalmente responsivo para mobile e desktop  
+✔️ Ideal para expansão com novos serviços e atualizações
 
 ---
 
 ## 🧩 Estrutura da Landing Page
 
 - **Hero Section**  
-  Apresentação direta do posicionamento e proposta de valor
+  Apresentação calorosa do hotel pet, com destaque para conforto e segurança
 
 - **Sobre**  
-  Contexto profissional e identidade do cliente
+  Descrição da proposta, missão e cuidado com os hóspedes peludos
 
-- **Serviços / Especialidades**  
-  Comunicação clara e objetiva do que é oferecido
+- **Serviços**  
+  Exposição dos principais serviços: hospedagem, day care, banho e cuidados especiais
 
-- **Portfólio**  
-  Demonstração de projetos e entregas
+- **Diferenciais**  
+  Elementos que mostram o acolhimento, equipe especializada e ambiente seguro
 
 - **Contato**  
-  Canal direto de conversão e relacionamento
+  Formas de agendar, pedir informações e iniciar a jornada de hospedagem
 
 ---
 
@@ -88,7 +88,3 @@ O projeto foi pensado desde o início como um **produto de mercado**, priorizand
 ---
 
 ## 🌐 Projeto em Produção
-
-🔗 **Acesse a aplicação online:**
-
-> *https://projeto-03-portifolionexo.vercel.app/*
