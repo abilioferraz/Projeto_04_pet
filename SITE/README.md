@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🚀 Nexo  
+# 🚀 Nexo
+
 ### Landing Page Profissional • Serviço Digital • Presença Online
 
 Landing page moderna e responsiva desenvolvida para ampliação de rede do cliente, com foco em **posicionamento profissional**, **experiência do usuário** e **clareza de comunicação**.
@@ -41,7 +42,7 @@ O projeto foi pensado desde o início como um **produto de mercado**, priorizand
 ✔️ Navegação fluida e intuitiva  
 ✔️ Código limpo e organizado  
 ✔️ Layout totalmente responsivo  
-✔️ Pronto para expansão e manutenção  
+✔️ Pronto para expansão e manutenção
 
 ---
 
@@ -66,12 +67,12 @@ O projeto foi pensado desde o início como um **produto de mercado**, priorizand
 
 ## 🛠️ Tecnologias Utilizadas
 
-| Tecnologia | Finalidade |
-|-----------|-----------|
-| **HTML5** | Estrutura semântica e SEO |
-| **CSS3** | Layout, Grid, Flexbox e responsividade |
-| **JavaScript (ES6+)** | Interações e comportamento |
-| **Git / GitHub** | Versionamento e controle |
+| Tecnologia            | Finalidade                             |
+| --------------------- | -------------------------------------- |
+| **HTML5**             | Estrutura semântica e SEO              |
+| **CSS3**              | Layout, Grid, Flexbox e responsividade |
+| **JavaScript (ES6+)** | Interações e comportamento             |
+| **Git / GitHub**      | Versionamento e controle               |
 
 ---
 
@@ -88,5 +89,6 @@ O projeto foi pensado desde o início como um **produto de mercado**, priorizand
 
 ## 🌐 Projeto em Produção
 
-🔗 **Acesse a aplicação online:**  
+🔗 **Acesse a aplicação online:**
+
 > *https://projeto-03-portifolionexo.vercel.app/*
